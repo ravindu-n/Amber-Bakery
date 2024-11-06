@@ -1,7 +1,7 @@
 # Amber-Bakery
 A bakery management system built in C++ for handling bakery operations efficiently.
 # About the Project
-The Amber Bakery System is a console-based application that simulates a bakery management system. After logging in, users can view and manage bakery items, view sales details, and place orders. The application aims to streamline bakery operations, allowing staff to efficiently manage the inventory and sales from a single interface. (Username : admin & Password : 123)
+The Amber Bakery System is a console-based application that simulates a bakery management system. After logging in, users can view and manage bakery items, view sales details, and place orders. The application aims to streamline bakery operations, allowing staff to efficiently manage the items and sales from a single interface. (Username : admin & Password : 123)
 # Features
 1 Login System: Users must log in with a username and password.<br>
 2 View Bakery Details: Access information about the bakery.<br>
